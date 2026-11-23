@@ -13,7 +13,7 @@ Supported CPU architecture: x86_64 (amd64) or aarch64 (arm64)
 # Installation
 1 .Clone the repository:
 
-`git clone https://github.com/dipbendu1/-proot
+``git clone https://github.com/dipbendu1/-proot
 cd proot``
 
 2.Run the installer script:
