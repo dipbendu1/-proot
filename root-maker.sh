@@ -1,8 +1,8 @@
-#!/bin/sh
+\#!/bin/sh
 
 ############################################################
 #                                                          #
-#                 EVILSAAD PROOT SYSTEM                  #
+#                 DB GAMING PROOT SYSTEM                  #
 #                   Ubuntu 24.04                           #
 #                                                          #
 #                                                           #
@@ -75,12 +75,12 @@ show_logo() {
 ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝
 
                     UBUNTU PROOT MANAGER
-                         EVILSAAD
+                         DBGAMING
 EOF
     printf '%b' "${RESET}"
     echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${RESET}"
     echo -e "${GREEN}                 UBUNTU 22.04 PROOT SYSTEM${RESET}"
-    echo -e "${YELLOW}                    POWERED BY EVILSAAD${RESET}"
+    echo -e "${YELLOW}                    POWERED BY DBGAMING${RESET}"
     echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${RESET}"
     echo ""
 }
