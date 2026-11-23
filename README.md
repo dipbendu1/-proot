@@ -19,6 +19,7 @@ cd proot``
 2.Run the installer script:
 
 ``./root-maker.sh``
+
 or
 
 ``bash root-maker.sh``
